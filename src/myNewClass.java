@@ -5,4 +5,7 @@ public class myNewClass extends Inherited {
 		//calling a function in inherited class
 		writeSomething("Inheritance");
 	}
+	public void justAFunction(){
+		
+	}
 }
